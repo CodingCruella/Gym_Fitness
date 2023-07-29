@@ -3,4 +3,4 @@
  Visit Now : [Gym Fitness](https://codingcruella.github.io/Gym_Fitness)
  
 
- [![Preview Recording Of GPT-1260 Working](https://codingcruella.github.io/Gym_Fitness/preview/ss.png)]
+ ![Preview Recording Of GPT-1260 Working](https://codingcruella.github.io/Gym_Fitness/preview/ss.png)
